@@ -75,7 +75,7 @@ buttons = [
      [
         InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭💝", callback_data="evil_"),
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"http://t.me/Evil_support_channel"
+            text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙘𝙝𝙖𝙣𝙣𝙚𝙡🔆", url=f"http://t.me/Evil_support_channel"
         ),
      ],
      [  
